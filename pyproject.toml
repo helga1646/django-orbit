@@ -1,0 +1,5 @@
+[project]
+name = "django-orbit"
+version = "0.1.0"
+description = "AI agent-native observability and debugging for Django."
+requires-python = ">=3.10"
