@@ -5,3 +5,4 @@ description = "AI agent-native observability and debugging for Django."
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
 # clarify the control flow
+# clarify the control flow
